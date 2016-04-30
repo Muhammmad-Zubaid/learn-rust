@@ -7,7 +7,7 @@ https://en.wikipedia.org/wiki/Rust_(programming_language)
 
 Why are we learning Rust?
 
-I am a web and mobile developer and teacher, therefore the first question that comes to mind is why am I learning Rust. The reason is that I am calculating that Web Assembly may be supported by all the major browsers by end of 2016. I think Web Assembly is a game changer both for Web and Mobile development. Initially Web Assembly will not support garbage collection semantics. Therefore, the only option left is C/C++ and Rust, both of them do not have garbage collection. Other languages like Java, C# or Swift all have garbage collection therefore will not be able to be used with Web Assembly. Right now Rust doesnot support Web Assembly however, I am calculating that soon it will. 
+I am a web and mobile developer and teacher, therefore the first question that comes to mind is why am I learning Rust. The reason is that I am calculating that Web Assembly may be supported by all the major browsers by end of 2016. I think Web Assembly is a game changer both for Web and Mobile development. Initially Web Assembly will not support garbage collection semantics. Therefore, the only option left is C/C++ and Rust, both of them do not have garbage collection. Other languages like Java, C# or Swift all have garbage collection therefore will not be able to be used with Web Assembly in the initial stages. Right now Rust doesnot support Web Assembly either, however I am calculating that soon it will. Furthermore, Rust will help me in becoming a systems programmer.
 
 
 What is Web Assembly and why is it so important?
