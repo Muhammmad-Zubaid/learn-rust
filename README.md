@@ -39,3 +39,8 @@ We will use these books to learn Rust
 https://doc.rust-lang.org/book/
 
 http://shop.oreilly.com/product/0636920040385.do#PowerReview
+
+
+Web Playground:
+
+https://play.rust-lang.org/
