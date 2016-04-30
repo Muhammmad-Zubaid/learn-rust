@@ -1,4 +1,4 @@
-# Learn Rust
+# Learn Rust in Baby Steps
 
 What is Rust?
 
