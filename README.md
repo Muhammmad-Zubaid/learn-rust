@@ -54,4 +54,11 @@ https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
 
 http://www.infoworld.com/article/2947214/open-source-tools/two-reasons-the-rust-language-will-succeed.html
 
+http://www.infoworld.com/article/3062936/application-development/mozillas-rust-language-doubles-down-on-speed-and-simplicity.html
+
+
+http://www.infoworld.com/article/3056622/application-development/rust-18-takes-steps-to-replace-the-make-build-system.html
+
+http://www.meetup.com/nylug-meetings/events/230624773/
+
 
