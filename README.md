@@ -44,3 +44,14 @@ http://shop.oreilly.com/product/0636920040385.do#PowerReview
 Web Playground:
 
 https://play.rust-lang.org/
+
+
+Read:
+
+https://en.wikipedia.org/wiki/Rust_(programming_language)
+
+https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
+
+http://www.infoworld.com/article/2947214/open-source-tools/two-reasons-the-rust-language-will-succeed.html
+
+
