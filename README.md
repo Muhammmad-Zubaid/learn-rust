@@ -61,4 +61,8 @@ http://www.infoworld.com/article/3056622/application-development/rust-18-takes-s
 
 http://www.meetup.com/nylug-meetings/events/230624773/
 
+https://www.reddit.com/r/rust/comments/3abgbo/webassembly_rust_compile_to_web/
+
+http://readwrite.com/2015/07/02/mozilla-rust-programming-language-potential/
+
 
