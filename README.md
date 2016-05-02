@@ -48,7 +48,7 @@ https://play.rust-lang.org/
 
 Read:
 
-https://en.wikipedia.org/wiki/Rust_(programming_language)
+https://github.com/WebAssembly/design/blob/master/FAQ.md#is-webassembly-only-for-cc-programmers
 
 https://www.quora.com/What-do-C-C++-systems-programmers-think-of-Rust
 
